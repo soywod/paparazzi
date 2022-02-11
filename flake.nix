@@ -23,8 +23,8 @@
           platform-tools
           cmdline-tools-latest
           build-tools-30-0-2
-          platforms-android-30
-          system-images-android-30-google-apis-x86-64
+          platforms-android-31
+          system-images-android-31-google-apis-x86-64
         ]);
       };
 

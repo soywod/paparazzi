@@ -62,3 +62,4 @@ buck-out/
 # Direnv
 .envrc
 .direnv/
+.log/
